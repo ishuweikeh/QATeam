@@ -6,6 +6,9 @@ public class SharingProject {
 
 		System.out.println("Hello world");
 		
+		
+		System.out.println("GIThub sharing project");
+		
 	}
 
 }
